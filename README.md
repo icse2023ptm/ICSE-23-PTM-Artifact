@@ -2,6 +2,12 @@
 
 > Artifact repository for the ICSE 2023 confrence
 
+## Changes Made on 1/4/2022
+
+1. An unzipped version of the interview artifact (stored within the repository at [`./data/Interview Study.zip`](data/Interview&#32;Study.zip) is now availible within this repository at [`./interview_study/`](interview_study/).
+2. Within the [`./interview_study`](interview_study/) folder is a new file ([`InterviewSaturation.ipynb`](interview_study/InterviewSaturation.ipynb)) which was used to calculate the interview saturation.
+3. Formatting (Removal of additional blank lines) to this [`README.md`](README.md) document and the addition of the this section.
+
 ## About
 
 This repository contains all of the artifacts for the ICSE 2023 confrence.
@@ -35,8 +41,6 @@ The HFTorrent dataset contains the repository histories of the 63,182 PTM packag
 They are provided as bare git clones (`git clone --bar`) to reduce space, resulting in a compressed footprint of ~20 GB. 
 Each PTM package can be reconstructed to its most recent version, including the model card, architecture, weights, and other elements provided by the maintainers.
 Information about how to download the dataset and how to extract it can be found in the [INSTALL](INSTALL) document.
-
-
 
 ## Reproduce Results
 
