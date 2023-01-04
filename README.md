@@ -5,7 +5,7 @@
 ## Changes Made on 1/4/2022
 
 1. An unzipped version of the interview artifact (stored within the repository at [`./data/Interview Study.zip`](data/Interview&#32;Study.zip) is now availible within this repository at [`./interview_study/`](interview_study/).
-2. Within the [`./interview_study`](interview_study/) folder is a new file ([`InterviewSaturation.ipynb`](interview_study/InterviewSaturation.ipynb)) which was used to calculate the interview saturation.
+2. Within the [`./interview_study/`](interview_study/) directory is a new file ([`InterviewSaturation.ipynb`](interview_study/InterviewSaturation.ipynb)) which was used to calculate the interview saturation.
 3. Formatting (Removal of additional blank lines) to this [`README.md`](README.md) document and the addition of the this section.
 
 ## About
